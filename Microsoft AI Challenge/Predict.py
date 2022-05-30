@@ -4,6 +4,8 @@
 Created on Mon May 30 12:23:51 2022
 
 @author: aakriti
+Deploy trained model and test as Azure Container Instances (ACI) to predict bike rentals expected on a given day, based on seasonal and meteorological input features as below.
+ 
 """
 import urllib.request
 import json
