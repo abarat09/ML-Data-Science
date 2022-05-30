@@ -2,6 +2,8 @@
 
 Repository containing portfolio of machine learning projects completed by me for self learning and hobby purposes. Presented in the form of iPython Notebooks, and Python markdown files.
 
+_Note: The repository contains projects data and code distributed under the license provided by Microsoft Azure and have been completed as part of the "Microsoft Azure AI Fundamentals: Explore visual tools for machine learning" Challenge_
+
 ## Contents
 
 - ### Machine Learning
